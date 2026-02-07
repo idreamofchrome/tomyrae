@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['💜', '💖', '💝', '👩🏻‍🤝‍👩🏽', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '👩🏻‍🤝‍👩🏽', '💓'],  // Heart emojis
         bears: ['🧸', '🐈']                       // Cute bear emojis
     },
 
@@ -58,7 +58,7 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
         backgroundStart: "#CD2C58",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#E06B80",        // Gradient end (should complement backgroundStart)
+        backgroundEnd: "#FFAAB8",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
