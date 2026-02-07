@@ -23,12 +23,12 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you duhh! 🩷"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "Hmm.. then how much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You really love me THAT much?? 🥰🩷❤️",  // Shows when they go past 5000%
+        extreme: "WOOOOW You really love me THAT much?? 🥰🩷💜",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀♾️",              // Shows when they go past 1000%
         normal: "I love you so so much more baby! 🫂"                           // Shows when they go past 100%
     },
