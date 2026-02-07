@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You really love me THAT much?? 🥰🩷💜",  // Shows when they go past 5000%
+        extreme: "WOOOOW You really love me THAT much?? 🥰🩷❤️",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀♾️",              // Shows when they go past 1000%
         normal: "I love you so so much more baby! 🫂"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I am officially the luckiest girl in the world! 🌎🥰🩷💟💓",
-        message: "Now let's celebrate being Valentines once again, I love you forever, gorgeous!",
-        emojis: "💋💋🤗👩🏻‍❤️‍💋‍👩🏽💜💕"  // These will bounce around
+        title: "I am officially the luckiest girl in the world! You make me so happy. 🌎🥰🩷💟💓",
+        message: "Now let's celebrate being valentines once again. I love you forever, gorgeous!",
+        emojis: "💋💋🤗👩🏻‍❤️‍💋‍👩🏽💝💕"  // These will bounce around
     },
 
     // Color scheme for the website
